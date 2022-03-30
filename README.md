@@ -1,4 +1,4 @@
-# FontAwesome PHP Library
+# FontAwesome PHP Library (Free version of Font Awesome)
 
 <aside>
 💡 Made for the free version of Font Awesome
